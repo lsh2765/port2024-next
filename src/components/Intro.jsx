@@ -46,7 +46,7 @@ const Intro = () => {
                 </div>
             </div>
         </section>
-  )
+    )
 }
 
 export default Intro
